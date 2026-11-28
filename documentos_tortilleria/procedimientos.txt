@@ -1,0 +1,9 @@
+PROCEDIMIENTOS DE LA TORTILLERÍA
+Documento iniciado: 27/11/2026
+
+1. Registrar la venta.
+2. Seleccionar los productos.
+3. Calcular el total.
+4. Entregar el ticket.
+5. Actualizar el inventario.
+6. Registrar el reabastecimiento.

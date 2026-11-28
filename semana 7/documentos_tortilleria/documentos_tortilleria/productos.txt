@@ -1,0 +1,7 @@
+LISTA DE PRODUCTOS Y PRECIOS
+Documento iniciado: 27/11/2026
+
+Tortilla: $27.00 por kilogramo
+Arroz: $35.00 por pieza
+Salsa: $21.00 por pieza
+Frijoles: $40.00 por pieza

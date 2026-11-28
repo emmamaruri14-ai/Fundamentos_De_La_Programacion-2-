@@ -1,0 +1,5 @@
+REGISTRO DEL INVENTARIO
+Documento iniciado: 27/11/2026
+STOCK|Arroz|20
+STOCK|Salsa|15
+STOCK|Frijoles|25
